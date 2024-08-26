@@ -1,8 +1,10 @@
-
-.box {
+<style>
+	.box {
 	width: 300px;
 	background-color: lightblue;
 	border: 15px Solid blue;
 	padding: 50px;
 	margin: 20px;
+	box-sizing: border-box;
 }
+</style>
