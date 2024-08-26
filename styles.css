@@ -1,3 +1,4 @@
+<style>
 .box {
 	width: 300px;
 	background-color: lightblue;
@@ -6,3 +7,4 @@
 	margin: 20px;
 	box-sizing: border-box;
 }
+</style>
